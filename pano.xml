@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.10" apprev="18007" start="node1">
+  <panorama id="node1">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="2.76487" fov="62.009" projection="4" tilt="-17.0469"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node1" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-114.88" target="165.7/-14.8/84.0" distance3D="205.741" fov="10" title="" tilt="-1.75" url="{node28}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-163.32" target="74.5/-5.1/70.0" distance3D="205.741" fov="10" title="" tilt="-7.35" url="{node22}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-227.38" target="81.8/-7.6/70.0" distance3D="205.741" fov="10" title="" tilt="-6.26" url="{node23}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-247.94" target="-120.5/2.1/70.0" distance3D="205.741" fov="10" title="" tilt="-4.06" url="{node30}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-352.53" target="2.1/-10.4/70.0" distance3D="205.741" fov="10" title="" tilt="-8.73" url="{node3}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-355.99" target="0.0/0.0/70.0" distance3D="205.741" fov="10" title="" tilt="16.87" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node3" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-171.79" target="-173.9/-7.7/70.0" distance3D="205.741" fov="10" title="" tilt="-10.56" url="{node1}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-357.03" target="6.2/-4.2/62.0" distance3D="205.741" fov="10" title="" tilt="-16.82" url="{node4}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-309.42" target="9.1/9.9/70.0" distance3D="205.741" fov="10" title="" tilt="13.4" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-43.09" target="-0.2/17.0/70.0" distance3D="205.741" fov="10" title="" tilt="13.61" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-356.65" target="" distance3D="205.741" fov="10" title="" tilt="20.26" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node4" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-179.11" target="-176.6/-16.4/70.0" distance3D="205.741" fov="10" title="" tilt="-16.43" url="{node3}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-302.17" target="8.6/12.3/64.4" distance3D="205.741" fov="10" title="" tilt="15.14" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-49.48" target="-0.7/11.7/76.7" distance3D="205.741" fov="10" title="" tilt="15.02" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-28.92" target="28.5/-0.4/70.0" distance3D="205.741" fov="10" title="" tilt="-17.9" url="{node5}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-322.94" target="-4.4/-2.2/70.0" distance3D="205.741" fov="10" title="" tilt="-16.08" url="{node29}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-355.1" target="" distance3D="205.741" fov="10" title="" tilt="23.27" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node5" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-208.58" target="179.9/-5.1/70.0" distance3D="205.741" fov="10" title="" tilt="-18.33" url="{node4}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-325.88" target="3.0/-0.7/70.0" distance3D="205.741" fov="10" title="" tilt="-15.3" url="{node6}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-295.39" target="8.1/10.1/70.0" distance3D="205.741" fov="10" title="" tilt="14.79" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-51.08" target="-0.7/11.7/76.9" distance3D="205.741" fov="10" title="" tilt="16.75" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-346.85" target="" distance3D="205.741" fov="10" title="" tilt="26.09" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node29" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-4.1" target="0.0/0.0/70.0" distance3D="205.741" fov="10" title="" tilt="-19.23" url="{node6}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-270.53" target="8.8/9.1/70.0" distance3D="205.741" fov="10" title="" tilt="17.72" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-30.71" target="-0.3/11.4/76.7" distance3D="205.741" fov="10" title="" tilt="15.12" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-120.72" target="-178.2/-2.8/70.0" distance3D="205.741" fov="10" title="" tilt="-16.19" url="{node4}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-333.69" target="" distance3D="205.741" fov="10" title="" tilt="27.53" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node6" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-355.96" target="6.2/-2.1/70.0" distance3D="205.741" fov="10" title="" tilt="-13.1" url="{node7}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-132.61" target="135.2/-9.8/70.0" distance3D="205.741" fov="10" title="" tilt="-16.35" url="{node5}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-223.83" target="-118.0/-0.9/70.0" distance3D="205.741" fov="10" title="" tilt="-16.2" url="{node29}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-292.15" target="8.7/8.8/70.0" distance3D="205.741" fov="10" title="" tilt="16.08" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-59.66" target="-0.7/12.6/76.9" distance3D="205.741" fov="10" title="" tilt="15.97" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-356.04" target="" distance3D="205.741" fov="10" title="" tilt="-2.85" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node7" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-179.13" target="-177.5/-11.0/70.0" distance3D="205.741" fov="10" title="" tilt="-10.34" url="{node6}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-82.96" target="1.2/15.1/70.0" distance3D="205.741" fov="10" title="" tilt="-5.79" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-269.43" target="11.3/8.5/70.0" distance3D="205.741" fov="10" title="" tilt="-6.38" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-353.52" target="" distance3D="205.741" fov="10" title="" tilt="-9.17" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node8" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-170.49" target="-1.4/15.8/70.0" distance3D="205.741" fov="10" title="" tilt="12.34" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-178.83" target="-165.7/-6.5/70.0" distance3D="205.741" fov="10" title="" tilt="-2.45" url="{node7}"/>
+      <hotspot description="" id="Point04" skinid="ht_url" pan="-354.26" target="_blank" title="" tilt="4.27" url="http://virtual.congresofendipetroleo.com/Conferencias"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-160.42" target="" distance3D="205.741" fov="10" title="" tilt="-2.89" url="{node31}"/>
+      <polyhotspot description="" id="Poly01" target="_blank" title="Ingresar al auditorio" url="http://virtual.congresofendipetroleo.com/Conferencias">
+        <polystring>-329.37/26.2|-17.11/25.62|-16.29/-6.11|-330.11/-6.13</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node9" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/f_abj.png" skinid="ht_node" customimageheight="36" pan="-180.69" target="9.9/8.8/70.0" distance3D="205.741" fov="10" title="" tilt="11.65" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-174.37" target="148.2/-5.5/70.0" distance3D="205.741" fov="10" title="" tilt="-2" url="{node7}"/>
+      <hotspot description="" id="Point04" skinid="ht_url" pan="-0.08" target="_blank" title="" tilt="7.75" url="http://virtual.congresofendipetroleo.com/Conferencias"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-186.64" target="0.0/0.0/70.0" distance3D="205.741" fov="10" title="" tilt="-1.75" url="{node31}"/>
+      <polyhotspot description="" id="Poly01" target="_blank" title="Ingresar al auditorio" url="http://virtual.congresofendipetroleo.com/Conferencias">
+        <polystring>-329.88/30.56|-29.5/30.69|-29.36/-7.45|-330.01/-7.22</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node31" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-147.79" target="0.0/14.8/70.0" distance3D="205.741" fov="10" title="" tilt="-17.49" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-179.44" target="-178.5/-5.6/70.0" distance3D="205.741" fov="10" title="" tilt="-11.9" url="{node7}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-212.16" target="9.5/6.2/70.0" distance3D="205.741" fov="10" title="" tilt="-16.75" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-62.04" target="6.7/-11.1/70.0" distance3D="205.741" fov="10" title="" tilt="-7.05" url="{node41}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-37.18" target="-46.3/-10.0/70.0" distance3D="205.741" fov="10" title="" tilt="-5.13" url="{node33}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-1.83" target="-0.2/0.0/70.0" distance3D="205.741" fov="10" title="" tilt="-11.4" url="{node32}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point07" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-321.11" target="43.3/3.1/70.0" distance3D="205.741" fov="10" title="" tilt="-5.21" url="{node34}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point08" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-303.3" target="-99.6/-2.5/70.0" distance3D="205.741" fov="10" title="" tilt="-8.25" url="{node35}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node32" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-178.15" target="-176.9/-5.0/70.0" distance3D="205.741" fov="10" title="" tilt="-17.3" url="{node31}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-156.9" target="0.7/14.0/70.0" distance3D="205.741" fov="10" title="" tilt="-11.06" url="{node9}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-197.89" target="8.5/6.5/70.0" distance3D="205.741" fov="10" title="" tilt="-10.92" url="{node8}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-280.97" target="-83.3/-3.8/70.0" distance3D="205.741" fov="10" title="" tilt="-8.37" url="{node35}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-307.51" target="27.7/-0.4/70.0" distance3D="205.741" fov="10" title="" tilt="-7.92" url="{node34}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-49.25" target="-39.3/-3.4/70.0" distance3D="205.741" fov="10" title="" tilt="-6.91" url="{node33}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point07" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-79.97" target="-13.3/-0.9/70.0" distance3D="205.741" fov="10" title="" tilt="-6.91" url="{node41}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node43" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-119.38" target="-86.1/-6.8/70.0" distance3D="205.741" fov="10" title="" tilt="-9.82" url="{node33}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-88.4" target="-73.3/-6.2/70.0" distance3D="205.741" fov="10" title="" tilt="-9.06" url="{node40}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-147.15" target="-100.2/-1.5/70.0" distance3D="205.741" fov="10" title="" tilt="-8.65" url="{node41}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-264.11" target="-46.0/-4.7/70.0" distance3D="205.741" fov="10" title="" tilt="-9.62" url="{node35}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-289.05" target="83.0/-5.7/70.0" distance3D="205.741" fov="10" title="" tilt="-12.15" url="{node34}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-319.63" target="-16.9/-6.8/70.0" distance3D="205.741" fov="10" title="" tilt="-8.56" url="{node36}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node33" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-41.84" target="-48.5/-5.4/70.0" distance3D="205.741" fov="10" title="" tilt="-12.86" url="{node40}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-137.07" target="-83.9/-8.0/70.0" distance3D="205.741" fov="10" title="" tilt="-13.28" url="{node41}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-236.51" target="111.0/-0.5/70.0" distance3D="205.741" fov="10" title="" tilt="-9.92" url="{node32}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-283.41" target="57.9/-9.4/70.0" distance3D="205.741" fov="10" title="" tilt="-11.66" url="{node43}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node34" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-244.96" target="-60.5/-4.9/70.0" distance3D="205.741" fov="10" title="" tilt="-15.76" url="{node35}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-322.89" target="-26.8/-5.3/70.0" distance3D="205.741" fov="10" title="" tilt="-13.11" url="{node36}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-115.53" target="-112.1/-4.4/70.0" distance3D="205.741" fov="10" title="" tilt="-10.09" url="{node32}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-67.87" target="-92.2/-8.9/70.0" distance3D="205.741" fov="10" title="" tilt="-9" url="{node43}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node35" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-178.81" target="-94.2/-11.9/70.0" distance3D="205.741" fov="10" title="" tilt="-10.3" url="{node36}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-238.5" target="-46.7/-2.3/70.0" distance3D="205.741" fov="10" title="" tilt="-11.44" url="{node34}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-275.03" target="-74.1/-5.1/70.0" distance3D="205.741" fov="10" title="" tilt="-3.84" url="{node32}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-288.99" target="-179.0/-4.9/70.0" distance3D="205.741" fov="10" title="" tilt="-2.62" url="{node31}"/>
+      <hotspot description="Miguel Ángel Díaz&#xa;Ejecutivo comercial&#xa;Email.&#xa;miguel.diaz@bereauveritas.com&#xa;Cel. 316 878 1244&#xa;&#xa;Jun Carlos Marín&#xa;Ejecutivo comercial&#xa;Email.&#xa;juanc.marino@bereauveritas.com&#xa;Cel. 315 800 2030" id="Point05" skinid="ht_info" pan="-21" target="" title="Info" tilt="0" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-21" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-5" url="https://api.whatsapp.com/send?phone=573168781244"/>
+      <hotspot description="Helber Frank Suárez&#xa;Email. helber.suarez@claro.com.co&#xa;Cel. 310 227 1924&#xa;&#xa;Martín Torres&#xa;Email. lee.torres@claro.com.co&#xa;Cel. 313 484 6763" id="Point07" skinid="ht_info" pan="-92.17" target="" title="Info" tilt="0" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point08" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-92" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-5" url="https://api.whatsapp.com/send?phone=573102271924"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node36" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-273.56" target="7.3/-2.8/70.0" distance3D="205.741" fov="10" title="" tilt="-9.18" url="{node35}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-246.17" target="-136.8/-9.3/70.0" distance3D="205.741" fov="10" title="" tilt="-10.02" url="{node34}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-117.27" target="-148.2/-10.1/70.0" distance3D="205.741" fov="10" title="" tilt="-11.8" url="{node37}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-79" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-4" url="https://api.whatsapp.com/send?phone=573223953423"/>
+      <hotspot description="Silvia Fernanda Cárdenas Molina&#xa;Comunicaciones&#xa;Email.&#xa;scardenas@ecodieselcolombiasa.com&#xa;Cel. 322 395 3423&#xa;&#xa;Diana Carolina Mendoza&#xa;Auxiliar logistico y comercial&#xa;Email.&#xa;dmendoza@ecodieselcolombiasa.com&#xa;Cel. 300 235 8360" id="Point05" skinid="ht_info" pan="-79" target="" title="Info" tilt="1" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node37" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-335.04" target="-3.4/-5.0/70.0" distance3D="205.741" fov="10" title="" tilt="-16.13" url="{node36}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-170.44" target="177.4/-5.9/70.0" distance3D="205.741" fov="10" title="" tilt="-10.83" url="{node38}"/>
+      <hotspot description="Silvia Fernanda Cárdenas Molina&#xa;Comunicaciones&#xa;Email.&#xa;scardenas@ecodieselcolombiasa.com&#xa;Cel. 322 395 3423&#xa;&#xa;Diana Carolina Mendoza&#xa;Auxiliar logistico y comercial&#xa;Email.&#xa;dmendoza@ecodieselcolombiasa.com&#xa;Cel. 300 235 8360" id="Point03" skinid="ht_info" pan="-28" target="" title="Info" tilt="0" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-28" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-5" url="https://api.whatsapp.com/send?phone=573223953423"/>
+      <hotspot description="Nicolle Bustacara Pardo&#xa;Coordinadora comunicaciones&#xa;Email.&#xa;comunicaciones@fedebiocombustibles&#xa;.com&#xa;Tel. 342 15 52" id="Point05" skinid="ht_info" pan="-108.35" target="" title="Info" tilt="-1.87" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node38" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="Santiago Ramírez&#xa;Asesor comercial&#xa;Email.&#xa;santiago.ramirez@gomezvelasquez.com&#xa;Cel. 310 514 4886&#xa;&#xa;Jhon Fredy Vélez Escobar&#xa;Asesor comercial&#xa;Email. jf.velez@gomezvelasquez.com&#xa;Cel. 313 702 4370&#xa;&#xa;Rafael Quimbayo Aguirre&#xa;Asesor comercial&#xa;Email.&#xa;rafael.quimbayo@gomezvelasquez.com&#xa;Cel. 300 375 6486&#xa;&#xa;Fabricio Plazas&#xa;Asesor comercial&#xa;Email.&#xa;fabricio.plazas@gomezvelasquez.com&#xa;Cel. 301 552 1575&#xa;&#xa;&#xa;" id="Point01" skinid="ht_info" pan="-29" target="" title="Info" tilt="2" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-29" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-3" url="https://api.whatsapp.com/send?phone=573105144886"/>
+      <hotspot description="Maria Fernanda Sereno Castañeda&#xa;Coordinadora comercial&#xa;Email.&#xa;comercial@marketingycomunicaciones&#xa;.com&#xa;Cel. 321 756 7403&#xa;&#xa;July Martínez Caro&#xa;Auxiliar comercial&#xa;Email.&#xa;comercial1@marketingycomunicaciones&#xa;.com&#xa;Cel. 301 593 8830" id="Point03" skinid="ht_info" pan="-131" target="" title="Info" tilt="0" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-131" target="_blank" distance3D="205.741" fov="10" title="" tilt="-5" url="https://api.whatsapp.com/send?phone=573217567403"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="0.03" target="11.2/-3.6/70.0" distance3D="205.741" fov="10" title="" tilt="-8.38" url="{node37}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-176.49" target="-103.0/-13.7/70.0" distance3D="205.741" fov="10" title="" tilt="-12.11" url="{node39}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node39" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-276.72" target="7.4/-3.2/70.0" distance3D="205.741" fov="10" title="" tilt="-12.27" url="{node38}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-150.99" target="-136.2/-7.0/70.0" distance3D="205.741" fov="10" title="" tilt="-11.78" url="{node40}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-173.42" target="-82.9/-1.6/70.0" distance3D="205.741" fov="10" title="" tilt="-7.44" url="{node41}"/>
+      <hotspot description="Luisa Fernanda Parra&#xa;Directora ejecutiva&#xa;Email.&#xa;director.antioquia@fendipetroleo.com&#xa;Cel. 321 469 7594" id="Point04" skinid="ht_info" pan="-2" target="" title="Info" tilt="2" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point05" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-2" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-3" url="https://api.whatsapp.com/send?phone=573214697594"/>
+      <hotspot description="Ivis Marcela Morales Aleman&#xa;Directora técnica&#xa;Email. imorales@cccdecolombia.com&#xa;Cel. 301 463 2600" id="Point06" skinid="ht_info" pan="-65" target="" title="Info" tilt="2" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point07" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-65" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-3" url="https://api.whatsapp.com/send?phone=573014632600"/>
+      <hotspot description="Claudia Maria Currea Bello&#xa;Ejecutica de cuenta&#xa;Email. currea.claudia@inaseg.com&#xa;Cel. 312 452 8463" id="Point08" skinid="ht_info" pan="-109" target="" title="Info" tilt="1" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point09" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-109" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-4" url="https://api.whatsapp.com/send?phone=573124528463"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node40" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-180.17" target="-87.8/-1.0/70.0" distance3D="205.741" fov="10" title="" tilt="-9.69" url="{node41}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-214.73" target="140.2/-1.2/70.0" distance3D="205.741" fov="10" title="" tilt="-8.35" url="{node33}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-345.42" target="-8.1/-1.3/70.0" distance3D="205.741" fov="10" title="" tilt="-12.88" url="{node39}"/>
+      <hotspot description="Nelson Romero&#xa;Asesor comercial&#xa;Email. nelson.romero@taller84.com&#xa;Cel. 315 600 1863&#xa;&#xa;Carlos Cuervo&#xa;Asesor comercial&#xa;Email. carlos.cuervo@taller84.com&#xa;Cel. 316 537 5347" id="Point05" skinid="ht_info" pan="-103" target="" title="Info" tilt="2" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-103" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-3" url="https://api.whatsapp.com/send?phone=573156001863"/>
+      <hotspot description="Claudia Maria Currea Bello&#xa;Ejecutica de cuenta&#xa;Email. currea.claudia@inaseg.com&#xa;Cel. 312 452 8463" id="Point07" skinid="ht_info" pan="-47" target="" title="Info" tilt="1" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point08" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-47" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-4" url="https://api.whatsapp.com/send?phone=573124528463"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-259.6" target="85.7/-9.9/70.0" distance3D="205.741" fov="10" title="" tilt="-8.6" url="{node43}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node41" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-285.35" target="-9.0/-8.6/70.0" distance3D="205.741" fov="10" title="" tilt="-6.87" url="{node40}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-226.52" target="51.6/-10.4/70.0" distance3D="205.741" fov="10" title="" tilt="-10.11" url="{node33}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-190.24" target="74.9/-12.8/70.0" distance3D="205.741" fov="10" title="" tilt="-6.78" url="{node32}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-170.45" target="-176.5/-11.8/70.0" distance3D="205.741" fov="10" title="" tilt="-4.98" url="{node31}"/>
+      <hotspot description="Alexandra Mora&#xa;Coordinadora ambiental&#xa;Email.&#xa;coordinador.ambiental@fondosoldicom&#xa;.org&#xa;Cel. 320 913 4769" id="Point05" skinid="ht_info" pan="-311" target="" title="Info" tilt="4" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point06" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-311" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-1" url="https://api.whatsapp.com/send?phone=573209134769"/>
+      <hotspot description="Maria Paula Mendoza&#xa;Ejecutiva servicio&#xa;Email. mmendoza@ocuservis.com.co&#xa;Cel. 310 810 5047&#xa;&#xa;Maria Isabel&#xa;Cel. 315 372 0275" id="Point07" skinid="ht_info" pan="-107" target="" title="Info" tilt="2" url=""/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point08" customimage="media/whatsapp.png" skinid="ht_url" customimageheight="36" pan="-107" target="_blank" distance3D="205.741" fov="10" title="Escribe un mensaje" tilt="-3" url="https://api.whatsapp.com/send?phone=573108105047"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node22" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-287.47" target="-86.8/-3.9/70.0" distance3D="205.741" fov="10" title="" tilt="-13.83" url="{node24}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-6.35" target="-4.0/-1.2/70.0" distance3D="205.741" fov="10" title="" tilt="-6.75" url="{node23}"/>
+      <hotspot description="" id="Point03" skinid="ht_node" pan="-83.36" target="0.0/0.0/70.0" title="" tilt="-5.39" url="{node1}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-196.77" target="174.3/-8.1/70.0" distance3D="205.741" fov="10" title="" tilt="-4.42" url="{node28}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node23" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-130.99" target="0.0/0.0/70.0" distance3D="205.741" fov="10" title="" tilt="-7.01" url="{node1}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-20.52" target="-50.9/-5.9/70.0" distance3D="205.741" fov="10" title="" tilt="-2.36" url="{node30}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-312.39" target="-140.2/1.3/70.0" distance3D="205.741" fov="10" title="" tilt="-10.1" url="{node25}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point04" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-242.03" target="1.4/-6.4/70.0" distance3D="205.741" fov="10" title="" tilt="-7.19" url="{node26}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node24" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-105.18" target="-176.1/-4.3/70.0" distance3D="205.741" fov="10" title="" tilt="-9.57" url="{node26}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-26.46" target="-33.6/-4.7/70.0" distance3D="205.741" fov="10" title="" tilt="-4.02" url="{node27}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-257.31" target="-85.8/-9.9/70.0" distance3D="205.741" fov="10" title="" tilt="-14.29" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node25" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-325.3" target="-131.6/-4.0/70.0" distance3D="205.741" fov="10" title="" tilt="-13.03" url="{node23}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-20.04" target="-8.7/-4.0/70.0" distance3D="205.741" fov="10" title="" tilt="-10.69" url="{node26}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-248.44" target="156.8/-4.6/70.0" distance3D="205.741" fov="10" title="" tilt="-8.9" url="{node30}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node26" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-178.39" target="146.1/-11.2/70.0" distance3D="205.741" fov="10" title="" tilt="-4.77" url="{node25}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-268.51" target="111.7/0.3/70.0" distance3D="205.741" fov="10" title="" tilt="-18.63" url="{node24}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-8.64" target="-32.9/-12.4/70.0" distance3D="205.741" fov="10" title="" tilt="-6.29" url="{node27}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node27" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-317.39" target="-159.6/-4.6/70.0" distance3D="205.741" fov="10" title="" tilt="-6.65" url="{node24}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-293.8" target="179.5/-1.1/35.1" distance3D="205.741" fov="10" title="" tilt="-6.1" url="{node26}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-38.92" target="0.8/-8.1/70.0" distance3D="205.741" fov="10" title="" tilt="-8.99" url="{node28}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node28" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-176.13" target="63.5/-10.6/70.0" distance3D="205.741" fov="10" title="" tilt="-7.18" url="{node27}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-269.96" target="-3.6/0.4/70.0" distance3D="205.741" fov="10" title="" tilt="-10.36" url="{node22}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_der-01.png" skinid="ht_node" customimageheight="36" pan="-309.3" target="0.0/0.0/70.0" distance3D="205.741" fov="10" title="" tilt="-4.37" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fov="120" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="Ultimos" heading="0" comment="" nodeid="node30" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point01" customimage="media/bc_izq-01.png" skinid="ht_node" customimageheight="36" pan="-306.53" target="-4.4/-13.1/70.0" distance3D="205.741" fov="10" title="" tilt="-3.33" url="{node1}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point02" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-340.54" target="-178.9/-0.7/70.0" distance3D="205.741" fov="10" title="" tilt="-7.63" url="{node23}"/>
+      <hotspot description="" use3D="0" customimagewidth="36" id="Point03" customimage="media/bc_arr-01.png" skinid="ht_node" customimageheight="36" pan="-14.43" target="-56.9/-7.2/70.0" distance3D="205.741" fov="10" title="" tilt="-6.03" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" levelingpitch="0" height="886" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" width="886" leveltilesize="510" levelbias="0.400">
+      <level predecode="0" height="886" preload="0" width="886"/>
+      <level predecode="1" height="443" preload="1" width="443"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-51.0952" fovpixel="2"/>
+      <max pan="180" fov="120" tilt="51.0952" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="CORRECCIONES" heading="0" comment="" nodeid="node42" source="" title="" datetime="9/11/2020 6:31 p. m." copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" height="20" borderradius="1" textalpha="1" enabled="1" background="1" wordwrap="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="6" softedge="0" zoomout="2" zoomafteroutfov="20" type="crossdissolve" enabled="1" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" rubberband="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" sensitivity="8" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" tags="" heading="0" comment="" nodeid="master" source="" title="" datetime="" copyright="" latitude="" longitude="" customnodeid="" author="" info=""/>
+  </masternode>
+</tour>
